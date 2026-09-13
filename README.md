@@ -5,8 +5,9 @@ A Python application for real-time image processing using OpenCV and a webcam. T
 ## Current Features
 * **Normal Mode (`n`)**: Raw webcam feed with no processing.
 * **Face Detection (`f`)**: Real-time face detection using Haar Cascades.
+* **Object Detection (`o`)**: Real-time object detection using a pre-trained MobileNet SSD model (detects people, cars, animals, and common objects).
 
-*More features (Object Detection, Edge Detection, etc.) are currently in development!*
+*More features (Edge Detection, Tracking, etc.) are currently in development!*
 
 ## Prerequisites
 * Python 3.10+
